@@ -9,7 +9,7 @@ Follow this document to generate API key.
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-panorama-api/get-started-with-the-pan-os-xml-api/get-your-api-key
 
 # Output
-the Script extracts following Properties
+the Script extracts following properties and saves it to a csv file.
 * name
 * serial
 * connected
