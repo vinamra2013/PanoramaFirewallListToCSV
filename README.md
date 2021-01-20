@@ -10,7 +10,7 @@ https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-panorama-api/get-started-wit
 
 # Output
 the Script extracts following Properties
-name
+* name
 serial
 connected
 unsupported-version
