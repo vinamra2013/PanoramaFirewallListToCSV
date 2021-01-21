@@ -1,7 +1,7 @@
 # PanoramaFirewallListToCSV
 This Powershell script extracts list of panorama managed firewalls and save details into CSV file.
 
-# Script Execution
+# Usage
 Easiest way to run this ps1 script is to copy paste it in notepad and update the variables and paste it in powershell. sometime due to enterprise policies ps1 files are not allowed to execute.
 
 ## Generate API Key
