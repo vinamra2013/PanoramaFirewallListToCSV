@@ -4,7 +4,7 @@ This Powershell script extracts list of panorama managed firewalls and save deta
 # Usage
 Easiest way to run this ps1 script is to copy paste it in notepad and update the variables and paste it in powershell. sometime due to enterprise policies ps1 files are not allowed to execute.
 
-PS Microsoft.PowerShell.Core\FileSystem::C:\Users\testuser\Documents> .\PanoramaConnectedDevicesToCSV.ps1
+C:\Users\testuser\Documents> .\PanoramaConnectedDevicesToCSV.ps1
 Fetching Data From Panorama API...
 2 Firewalls Found. Details Are Saved to CSV File: PaloAltoDevices.csv
 
